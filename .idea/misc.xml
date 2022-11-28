@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/drawable/background_login_btn3.xml" value="0.1065" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/drawable/button_style.xml" value="0.1065" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/drawable/ic_home_24dp.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/drawable/ic_outline_lock_24.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/drawable/ic_outline_person_outline_24.xml" value="0.101" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/drawable/ic_outline_visibility_24.xml" value="0.1005" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/drawable/image_style.xml" value="0.1065" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/drawable/login_background.xml" value="0.11" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/drawable/round_editstyle.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/layout/activity_index.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/layout/activity_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/layout/activity_register.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/layout/activity_share.xml" value="0.10666666666666667" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/layout/cardview_picture.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/layout/fragment_home.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/layout/fragment_profile.xml" value="0.14130434782608695" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/menu/bottom_nav_menu.xml" value="0.159375" />
+        <entry key="..\:/AndroidStudioProjects/PictureShare-master/app/src/main/res/menu/top_menu.xml" value="0.14666666666666667" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/ic_outline_account_circle_24.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/ic_outline_lock_24.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/ic_outline_person_outline_24.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/ic_outline_visibility_24.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/ic_outline_visibility_off_24.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/ic_round_arrow_forward_24.xml" value="0.3638888888888889" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/drawable/round_editstyle.xml" value="0.41846153846153844" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/activity_index.xml" value="0.23333333333333334" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/activity_login.xml" value="0.23333333333333334" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/activity_main.xml" value="0.3401268115942029" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/activity_register.xml" value="0.23333333333333334" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/activity_share.xml" value="0.23333333333333334" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/cardview_picture.xml" value="0.3401268115942029" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/cardview_picture2.xml" value="0.23333333333333334" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/content_register.xml" value="0.23333333333333334" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/fragment_dashboard.xml" value="0.3401268115942029" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/fragment_first.xml" value="0.23333333333333334" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/fragment_home.xml" value="0.3401268115942029" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/fragment_notifications.xml" value="0.3401268115942029" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/layout/fragment_profile.xml" value="0.15715579710144928" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/menu/bottom_nav_menu.xml" value="0.4088541666666667" />
+        <entry key="..\:/Project/exper/PictureShare/app/src/main/res/menu/top_menu.xml" value="0.23333333333333334" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/circle_image.xml" value="0.1155" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/customer_normal.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/customer_selected.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/customer_selector.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/grew_background.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/head_style.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/ic_outline_visibility_24.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/loading_img.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/login_background.xml" value="0.104" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/logo_about.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/progress_bar.xml" value="0.104" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/setting_list.xml" value="0.104" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/drawable/white_background.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_focus.xml" value="0.14666666666666667" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_index.xml" value="0.14673913043478262" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_my_picture.xml" value="0.16666666666666666" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_register.xml" value="0.14673913043478262" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_setting.xml" value="0.14666666666666667" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_share.xml" value="0.16666666666666666" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_share_info.xml" value="0.22" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_show_picture.xml" value="0.1" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/activity_version.xml" value="0.16666666666666666" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/card_view_mypicture.xml" value="0.22" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/cardview_picture.xml" value="0.14666666666666667" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/comment_item.xml" value="0.22" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/fragment_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/layout/settings_activity.xml" value="0.14666666666666667" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/menu/bottom_nav_menu.xml" value="0.13385416666666666" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/menu/top_menu.xml" value="0.14739583333333334" />
+        <entry key="..\:/prjtest/PictureShare-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">易图</string>
+    <string name="register">没有账户？点击注册</string>
+    <string name="find_password">找回密码</string>
+    <string name="text_hint_username">用户名</string>
+    <string name="text_hint_password">密码</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">首页</string>
+    <string name="title_profile">我的</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="login">登录</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="upload">发布</string>
+    <string name="select_picture_hint">选择图片</string>
+    <string name="upload_hint">上传</string>
+    <string name="create_account_hint">注册</string>
+    <string name="confirm_password_hint">确认密码</string>
+    <string name="input_password_hint">密码</string>
+    <string name="input_account_hint">账户</string>
+    <string name="register_hint">注册</string>
+    <string name="input_username_hint">用户名</string>
+    <string name="title_activity_user_setting">UserSettingActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="fenxiang">分享</string>
+</resources>

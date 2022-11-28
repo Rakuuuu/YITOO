@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:padding="10dp"
+    app:barrierMargin="10dp"
+    app:cardBackgroundColor="#FAFAFA">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <!--        图片、标题、作者 垂直分布-->
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="360dp"
+            android:layout_height="match_parent"
+            android:layout_weight="18"
+            android:orientation="vertical">
+
+            <!--            图片-->
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/imageview_mypicture"
+                android:layout_width="match_parent"
+                android:layout_height="232dp"
+                android:layout_margin="10dp"
+                android:cropToPadding="false"
+                android:scaleType="centerCrop"
+                android:src="@drawable/customer_selected" />
+            <!--            //w348-->
+
+            <!--            title-->
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/textview_mypicture_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="left"
+                android:paddingStart="10dp"
+                android:text="这是标题"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <!--            author-->
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <!--        点赞、保存、分享按钮区垂直分布-->
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.cardview.widget.CardView>
